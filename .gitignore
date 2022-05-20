@@ -1,6 +1,0 @@
-venv
-env
-*.pyc
-.env
-.DS_Store
-config.py
