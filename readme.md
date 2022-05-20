@@ -26,9 +26,9 @@ Also, it contains a couple more features.
 
 ## What's next?
 I am learning how to use **AWS**. The idea is the following:
-- Automate an API call every hour that gets the current *floor price**
+- Automate an API call every hour that gets the current **floor price**
 - Create a **database** where to store the data
-- Plot *floor price**. 
+- Plot **floor price**. 
 
 ![Screenshot](screenshot1.png)
 Example of visualization
